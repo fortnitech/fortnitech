@@ -1,8 +1,7 @@
- hello!!fortnitech
+ hello
 
 <!--
-**fortnitech/fortnitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-開発してます。
+**fortnitech/fortnitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.開発してます。
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
